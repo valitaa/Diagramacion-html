@@ -1,0 +1,157 @@
+.fondo{
+	background-color:#21081f;
+}
+.gen{
+	color: white;
+	font-size: 20px;
+	padding-left: 40px;
+	font-size: 40px;
+}
+.menu{
+	float: left;
+    margin: 28px;
+    margin-top: 10px;
+    /*text-shadow:2px 2px 4px #000;*/
+    list-style: none;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.img{
+	margin:10px 10px 10px 10px;
+}
+h3{
+	color:#333359;
+	font-size: 30px;
+	padding: 10px;
+	margin: 10px 10px 10px 10px;
+}
+.parra{
+	color: gray;
+	padding: 20px;
+	font-size: 15px;
+}
+.more{
+	background-color: #808080;
+	border-radius: 10px;
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+	margin-left:20px; 
+}
+h2{
+	color:#748095;
+}
+h5{
+	float: left;
+	padding: 10px;
+	color: #748095;
+}
+h4{
+	color: #66636d;
+	padding: 10px;
+	float: left;
+	margin-left: 10px;
+}
+.ion{
+	color:gray;
+	font-size:13px ;
+	padding: 15px;
+	float: left;
+}
+.boton{
+	background-color: #808080;
+	border-radius: 10px;
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+	text-align: center;
+}
+.gent{
+	color:#b3a6b3;
+	font-size: 17px;
+	padding: 30px;
+}
+.icons{
+	border-radius: 30px;
+	border: 2px white dashed;
+	padding: 10px;
+}
+.parraf{
+	padding: 15px;
+	text-align: center;
+	color: #b3a6b3;
+}
+.li{
+	color:white;
+	padding:3px;
+	list-style: none;
+	font-size: 13px;
+}
+.lis{
+	font-size: 13px;
+	list-style: none;
+	padding:3px;
+}
+.feo{
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+hr{
+	color: gray;
+	padding: 10px;
+}
+.ion2{
+	font-size: 80px;
+	color: gray;
+	margin-left: 30px;
+}
+.boton2{
+	background-color: #808080;
+	border-radius: 10px;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	margin:0px;
+	margin-bottom: 20px; 
+}
+h6{
+	color:white;
+	font-size: 16px;
+	padding: 5px;
+	float: left;
+}
+.chico{
+	color: #b3a6b3;
+	font-size: 13px;
+	padding: 5px;
+}
+.para{
+	color: white;
+	font-size: 13px;
+	padding: 5px;
+}
+.boton4{
+	border-radius: 10px;
+	background-color:#9a1a47;
+	color: white; 
+	font-size: 13px;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+	float: left;
+}
+.num{
+	color: #9a1a47;
+	font-size: 16px;
+}
+.ion3{
+	color: #b3a6b3;
+}
+
+
+
+
+
+
+
